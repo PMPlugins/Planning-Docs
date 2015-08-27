@@ -6,3 +6,4 @@
 |Be active forever|
 |Get 10 group members|
 |Get a cool icon|
+|Make at least 10 plugins|
