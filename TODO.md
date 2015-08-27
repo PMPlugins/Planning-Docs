@@ -7,3 +7,4 @@
 |Get 10 group members|
 |Get a cool icon|
 |Make at least 10 <b>WORKING AND AWESOME</b> plugins|
+|Spend less time making a to-do list and more time coding|
