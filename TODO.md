@@ -5,3 +5,4 @@
 |Make all plugins run bug-less|
 |Be active forever|
 |Get 10 group members|
+|Get a cool icon|
