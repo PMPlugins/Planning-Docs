@@ -1,5 +1,5 @@
 <h3>To-Do list:</h3>
-|List|
+|To-do list:|
 |:----:|
 |Add APIs to all plugins|
 |Make all plugins run bug-less|
